@@ -2,6 +2,7 @@
 (Currently pursuing a Master's degree in Business Informatics while also holding a Bachelor's degree in Nursing.)
 
 🌱 I co-founded Sunto-IT (https://sunto-it.de/).
+
 🔭 Furthermore, I volunteer for SORMAS (https://sormas.org/), which stands for Surveillance Outbreak Response Management and Analysis System.
 
 📫Connect with me:
